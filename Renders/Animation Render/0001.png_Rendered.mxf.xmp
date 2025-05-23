@@ -1,0 +1,71 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+   dc:identifier="060A2B340101010501010D111300000047E85902180806BAB0A9CC28AA15A864"
+   dc:format="DNxHR/DNxHD MXF OP1a"
+   xmpMM:InstanceID="xmp.iid:e56af777-77bd-114e-b198-afe0aaad4851"
+   xmpMM:DocumentID="b93dae39-2421-aea7-e8e3-746400000055"
+   xmpMM:OriginalDocumentID="xmp.did:f001d7f4-4d58-cc45-9db8-7e5f1e4bd1d0"
+   xmp:MetadataDate="2025-05-23T16:27:27+05:30"
+   xmp:ModifyDate="2025-05-23T16:27:27+05:30"
+   xmp:CreateDate="2025-05-23T16:26:56+05:30"
+   xmpDM:videoFrameRate="24.000000"
+   xmpDM:videoFieldOrder="Progressive"
+   xmpDM:videoPixelAspectRatio="1/1"
+   xmpDM:startTimeScale="24"
+   xmpDM:startTimeSampleSize="1">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="9dee0857-ffbd-fcee-4109-678c00000082"
+      stEvt:when="2025-05-23T16:27:27+05:30"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="74086402-1e33-22c3-88fd-a0ab00000068"
+      stEvt:when="2025-05-23T16:27:26+05:30"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:5077ab91-6c74-6f40-84f8-cc3b99007252"
+      stEvt:when="2025-05-23T16:27:27+05:30"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:e56af777-77bd-114e-b198-afe0aaad4851"
+      stEvt:when="2025-05-23T16:27:27+05:30"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:b10ae3ae-74fd-7d4d-b878-84bdbecafc20"
+    stRef:documentID="xmp.did:b10ae3ae-74fd-7d4d-b878-84bdbecafc20"
+    stRef:originalDocumentID="xmp.did:dc198f8e-d770-0c4e-91df-41fa7447c8ad"/>
+   <xmpDM:videoFrameSize
+    stDim:w="1920"
+    stDim:h="1080"
+    stDim:unit="pixel"/>
+   <xmpDM:duration
+    xmpDM:value="80"
+    xmpDM:scale="1/24"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="24Timecode"
+    xmpDM:timeValue="00:00:00:00"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:00:00:00"
+    xmpDM:timeFormat="24Timecode"/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
